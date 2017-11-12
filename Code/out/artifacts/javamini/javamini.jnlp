@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="javamini.jnlp">
+  <information>
+    <title>javamini</title>
+    <vendor>Unknown</vendor>
+    <description>javamini</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="javamini.jar" size="60505947" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="600" height="400" main-class="sample.Main"  name="javamini" />
+  <update check="background"/>
+</jnlp>
