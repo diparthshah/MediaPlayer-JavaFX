@@ -1,4 +1,4 @@
-## OOPM-MINI-PROJECT : Basic Mediaplayer using JavaFX Framework
+## OOPM-MINI-PROJECT : Mediaplayer Application Developed using JavaFX Framework
 
 ###### Features:
 
