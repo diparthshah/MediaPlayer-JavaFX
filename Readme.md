@@ -1,6 +1,6 @@
-#### OOPM-MINI-PROJECT : Basic Mediaplayer using JavaFX Framework
+## OOPM-MINI-PROJECT : Basic Mediaplayer using JavaFX Framework
 
-####### Features:
+###### Features:
 
 * Platform Independent
 * MP3/MP4 Files Support
