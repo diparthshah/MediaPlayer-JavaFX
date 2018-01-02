@@ -18,6 +18,16 @@
 <img src="Screenshots/img3.png"/>
 
 
+###### Contributors:
+
+
+* Diparth Shah
+ 
+* Priyansh Shah
+
+* Parth Kholkute
+
+
 
 
 
